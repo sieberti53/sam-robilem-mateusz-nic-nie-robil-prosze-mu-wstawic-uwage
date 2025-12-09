@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\inf04\\praktyka\\INF.04-01-23.01-SG\\2. desktopowa\\C#\\INF.04-01-23.01-SG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4AA0FB-3C3F-4401-942A-47226772E35A}|INF.04-01-23.01-SG.csproj|c:\\users\\admin\\desktop\\inf04\\praktyka\\inf.04-01-23.01-sg\\2. desktopowa\\c#\\inf.04-01-23.01-sg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4AA0FB-3C3F-4401-942A-47226772E35A}|INF.04-01-23.01-SG.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\inf04\\praktyka\\INF.04-01-23.01-SG\\2. desktopowa\\C#\\INF.04-01-23.01-SG\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\inf04\\praktyka\\INF.04-01-23.01-SG\\2. desktopowa\\C#\\INF.04-01-23.01-SG\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:39:27.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

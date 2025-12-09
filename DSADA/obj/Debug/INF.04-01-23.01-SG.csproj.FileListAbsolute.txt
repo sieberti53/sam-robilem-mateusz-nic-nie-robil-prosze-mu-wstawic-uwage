@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\bin\Debug\INF.04-01-23.01-SG.exe.config
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\bin\Debug\INF.04-01-23.01-SG.exe
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\bin\Debug\INF.04-01-23.01-SG.pdb
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF.04-01-23.01-SG.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF._04_01_23._01_SG.Properties.Resources.resources
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF.04-01-23.01-SG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF.04-01-23.01-SG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF.04-01-23.01-SG.exe
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF.04-01-23.01-SG.pdb
+C:\Users\Admin\Desktop\inf04\praktyka\INF.04-01-23.01-SG\2. desktopowa\C#\INF.04-01-23.01-SG\obj\Debug\INF._04_01_23._01_SG.Form1.resources
